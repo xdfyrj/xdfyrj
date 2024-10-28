@@ -1,4 +1,18 @@
 ### Hi there 👋
+I am **xdfyrj**. Please call me xd. 
+I just live with the flow. _For fun_.🙂
+
+I do ...
+- Reverse Engineering.🔧 It's for fun.
+- Cryptography.🔒 It's for reversing.
+- Problem Solving.💻 It's for reversing.
+- Reading Books.📕 It's for fun.
+- Study (little).✏️ It's for my University.
+- Write the blog.✒️ It's my future.
+
+```
+"Be patient, Work hard, Step by step".
+```
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumyr)](https://solved.ac/sumyr/)
 
