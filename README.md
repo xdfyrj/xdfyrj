@@ -17,7 +17,7 @@ I do ...
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumyr)](https://solved.ac/sumyr/)
 
-[Dreamhack](https://dreamhack.io): _**xdfyrj**_  |  Discord: _**sumyr**_
+Dreamhack: [_**xdfyrj**_](https://dreamhack.io/users/58642)  |  Discord: _**sumyr**_
 
 
 <!--
