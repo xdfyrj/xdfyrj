@@ -2,7 +2,7 @@
 I am **xdfyrj**. Please call me xd. 
 I just live with the flow. _For fun_.🙂
 
-I do Reverse Engineering. For fun. That's it.
+I do Reverse Engineering. For fun. That's all. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumyr)](https://solved.ac/sumyr/)
 
