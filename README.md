@@ -11,8 +11,10 @@ Dreamhack: [**xdfyrj**](https://dreamhack.io/users/58642)
 Discord: sumyr
 
 ### blog
-**Notion**: https://xdfyrj.notion.site/XDFYRJ-110c3150ce25431599398bac9d6ec0e4?pvs=4
+**Notion**: https://xdfyrj.notion.site/XDFYRJ-110c3150ce25431599398bac9d6ec0e4?pvs=
+
 tstory: https://sum-yr.tistory.com
+
 velog: https://velog.io/@sumyr
 
 <!--
