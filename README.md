@@ -10,6 +10,8 @@ Dreamhack: [**xdfyrj**](https://dreamhack.io/users/58642)
 
 Discord: sumyr
 
+About Me: [xdfyrj](https://solo.to/tldw)
+
 ### blog
 **Notion**: https://xdfyrj.notion.site/XDFYRJ-110c3150ce25431599398bac9d6ec0e4
 
