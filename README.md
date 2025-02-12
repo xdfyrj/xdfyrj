@@ -8,9 +8,10 @@ I do Reverse Engineering. For fun. That's all.
 
 Dreamhack: [**xdfyrj**](https://dreamhack.io/users/58642)
 
+About Me: [tldw](https://solo.to/tldw)
+
 Discord: sumyr
 
-About Me: [xdfyrj](https://solo.to/tldw)
 
 ### blog
 **Notion**: https://xdfyrj.notion.site/XDFYRJ-110c3150ce25431599398bac9d6ec0e4
