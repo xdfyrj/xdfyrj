@@ -6,7 +6,7 @@ I do Reverse Engineering. For fun. That's all.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumyr)](https://solved.ac/sumyr/)   
 Dreamhack: [**tldw**](https://dreamhack.io/users/58642)   
-About Me: [tldw](https://solo.to/tldw)   
+About Me: https://solo.to/tldw
 
 Discord: sumyr
 
