@@ -1,17 +1,14 @@
 ### Hi there 👋
-I am **xdfyrj**. Please call me xd. 
+I am **Yeoreum Kim**. a.k.a. **tldw** or **xdfyrj**.    
 I just live with the flow. _For fun_.🙂
 
 I do Reverse Engineering. For fun. That's all. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumyr)](https://solved.ac/sumyr/)
-
-Dreamhack: [**xdfyrj**](https://dreamhack.io/users/58642)
-
-About Me: [tldw](https://solo.to/tldw)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumyr)](https://solved.ac/sumyr/)   
+Dreamhack: [**tldw**](https://dreamhack.io/users/58642)   
+About Me: [tldw](https://solo.to/tldw)   
 
 Discord: sumyr
-
 
 ### blog
 **Notion**: https://xdfyrj.notion.site/XDFYRJ-110c3150ce25431599398bac9d6ec0e4
