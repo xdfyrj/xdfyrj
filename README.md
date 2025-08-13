@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am **Yeoreum Kim**. a.k.a. **tldw** or **xdfyrj**.    
+I am **Yeoreum Kim**. a.k.a. **xdfyrj** or sumyr.    
 I just live with the flow. _For fun_.🙂
 
 I do Reverse Engineering. For fun. That's all. 
