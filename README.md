@@ -11,6 +11,8 @@ About Me: https://solo.to/tldw
 Discord: sumyr
 
 ### blog
+**blog**: https://xdfyrj.github.io/
+
 **Notion**: https://xdfyrj.notion.site/XDFYRJ-110c3150ce25431599398bac9d6ec0e4
 
 tstory: https://sum-yr.tistory.com
