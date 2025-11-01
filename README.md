@@ -17,8 +17,6 @@ Discord: sumyr
 
 tstory: https://sum-yr.tistory.com
 
-velog: https://velog.io/@sumyr
-
 <!--
 **xdfyrj/xdfyrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
