@@ -1,8 +1,7 @@
 ### Hi
 I am **Yeoreum Kim**. a.k.a. **xdfyrj** or sumyr.    
-I just live with the flow. _For fun_.
 
-I do Reverse Engineering. I love Computer.
+I do reverse engineering. I love computers.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumyr)](https://solved.ac/sumyr/)   
 Dreamhack: [**xdfyrj**](https://dreamhack.io/users/58642)   
