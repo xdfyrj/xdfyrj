@@ -9,7 +9,7 @@ About Me: https://solo.to/tldw
 
 Discord: sumyr
 
-blog: [https://hackmd.io/@xdfyrj.com](https://hackmd.io/xdfyrj)
+blog: [https://hackmd.io/@xdfyrj](https://hackmd.io/@xdfyrj)
 
 <!--
 **xdfyrj/xdfyrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
